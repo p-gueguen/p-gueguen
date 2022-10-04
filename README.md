@@ -1,4 +1,5 @@
 ### Hi there 👋
+/play secret
 
 <!--
 **p-gueguen/p-gueguen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
