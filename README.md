@@ -1,6 +1,6 @@
 ### **✨Hi Github!✨**
 
-I'm currently a postdoctoral researcher in the [Carmona lab](https://github.com/carmonalab/) in [UNIL - Lausanne](https://www.unil.ch/dof/carmona). I'm working on T cell single-cell references to understand the tumor microenvironment.
+I'm currently a researcher in the [FGCZ](https://fgcz.ch/) at ETH Zurich. I'm working on cell single-cell and spatial biology.
 
 Talk to me about anything single-cell, immune or AI/ML related!
 
