@@ -5,7 +5,7 @@ I'm a researcher an the [FGCZ](https://fgcz.ch/) at ETH Zurich. I'm working on c
 Talk to me about anything single-cell, immune or AI/ML related!
 
 〰️〰️〰️〰️
-- Website: https://pgueguen.github.io/
+- Website: [https://pgueguen.github.io/](https://p-gueguen.github.io/pgueguen.github.io/)
 
 - Twitter: https://twitter.com/octupls
 
