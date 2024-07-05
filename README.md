@@ -1,10 +1,12 @@
 ### **✨Hi Github!✨**
 
-I'm currently a researcher in the [FGCZ](https://fgcz.ch/) at ETH Zurich. I'm working on cell single-cell and spatial biology.
+I'm a researcher an the [FGCZ](https://fgcz.ch/) at ETH Zurich. I'm working on cell single-cell and spatial biology.
 
 Talk to me about anything single-cell, immune or AI/ML related!
 
 〰️〰️〰️〰️
+- Website: https://pgueguen.github.io/
+
 - Twitter: https://twitter.com/octupls
 
 - ORCID: https://orcid.org/0000-0003-2930-6073
