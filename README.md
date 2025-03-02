@@ -1,8 +1,8 @@
-### **✨Hi Github!✨**
+### **Hi Github!✨**
 
-I'm a researcher an the [FGCZ](https://fgcz.ch/) at ETH Zurich. I'm working on cell single-cell and spatial biology.
+I'm a researcher at [FGCZ](https://fgcz.ch/) - ETH Zurich. I'm working on single-cell and spatial biology.
 
-Talk to me about anything single-cell, immune or AI/ML related!
+Talk to me about anything single-cell, spatial immune or AI/ML related!
 
 〰️〰️〰️〰️
 - Website: https://p-gueguen.github.io/
