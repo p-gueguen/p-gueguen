@@ -7,11 +7,11 @@ Talk to me about anything single-cell, immune or AI/ML related!
 〰️〰️〰️〰️
 - Website: https://p-gueguen.github.io/
 
-- Twitter: https://twitter.com/octupls
+- Google Scholar: https://scholar.google.fr/citations?user=srVHy-MAAAAJ&hl=fr
 
 - ORCID: https://orcid.org/0000-0003-2930-6073
 
-- Google Scholar: https://scholar.google.fr/citations?user=srVHy-MAAAAJ&hl=fr
+
 
 
 ---------------------------
